@@ -1,6 +1,6 @@
-![Banner](assets/Kepler.jpg)
-Machine Learning 🚀  
+<img src="assets/Kepler.jpg" alt="Banner Image">
 
+# Machine Learning 🚀
 📌 About  
 This repository contains my journey of learning Machine Learning from scratch. I am starting with Python and will gradually explore advanced ML concepts over the next 8 months.  
 
