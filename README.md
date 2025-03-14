@@ -5,7 +5,7 @@ This repository contains my journey of learning Machine Learning from scratch. I
 
 📂 Folder Structure  
 - Python/ → Contains Python theory, practice sets, and projects.  
-- Books & Videos/** → Collection of ML learning resources.  
+- Books & Videos/ → Collection of ML learning resources.  
 
 🛠️ Installation  
 1. Clone this repository:  
