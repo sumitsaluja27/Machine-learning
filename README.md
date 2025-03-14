@@ -1,3 +1,4 @@
+![Banner](assets/Kepler.jpg)
 Machine Learning 🚀  
 
 📌 About  
