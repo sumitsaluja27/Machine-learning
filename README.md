@@ -1,6 +1,14 @@
 <img src="assets/Kepler.jpg" alt="Banner Image">
 
 # Machine Learning 🚀
+
+## 📊 Repository Stats
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sumitsaluja27/Machine-learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sumitsaluja27/Machine-learning?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sumitsaluja27/Machine-learning)
+![GitHub last commit](https://img.shields.io/github/last-commit/sumitsaluja27/Machine-learning)
+
 📌 About  
 This repository contains my journey of learning Machine Learning from scratch. I am starting with Python and will gradually explore advanced ML concepts over the next 8 months.  
 
