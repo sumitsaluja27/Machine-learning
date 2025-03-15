@@ -9,6 +9,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/sumitsaluja27/Machine-learning)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sumitsaluja27/Machine-learning)
 
+## 🖥️ Languages Used  
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaluja27&layout=compact&theme=dark)](https://github.com/sumitsaluja27)
+
 📌 About  
 This repository contains my journey of learning Machine Learning from scratch. I am starting with Python and will gradually explore advanced ML concepts over the next 8 months.  
 
