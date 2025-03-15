@@ -6,5 +6,6 @@ contents = os.listdir(home_path)
 print("Contents of Home Directory:")
 for item in contents:
     print(item)
+    
 
 
