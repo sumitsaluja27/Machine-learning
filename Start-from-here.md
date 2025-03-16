@@ -5,21 +5,16 @@ Welcome to the Machine Learning Learning Path repository! This repository is des
 ---
 
 ## Table of Contents
-<a name="setup-instructions"></a>
-## Setup Instructions
 1. [Setup Instructions](#setup-instructions)
-<a name="learning-roadmap"></a>
-## Learning Roadmap
 2. [Learning Roadmap](#learning-roadmap)
-<a name="directory-structure"></a>
-## Directory Structure
 3. [Directory Structure](#directory-structure)
-<a name="contributing"></a>
-## Contributing
 4. [Contributing](#contributing)
+5. [License](#license)
+
 <a name="license"></a>
 ## License
-5. [License](#license)
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
