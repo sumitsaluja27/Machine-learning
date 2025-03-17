@@ -19,23 +19,6 @@ This repository contains my journey of learning Machine Learning from scratch. I
 📂 Folder Structure  
 - Python/ → Contains Python theory, practice sets, and projects.  
 - Books & Videos/ → Collection of ML learning resources.  
-
-🛠️ Installation  
-1. Clone this repository:  
-   bash
-   git clone https://github.com/sumitsaluja27/Machine-learning.git
-   cd Machine-learning
-  
-2. Install Python (if not installed)  
-3. Set up a virtual environment (optional but recommended):  
-   bash
-   python -m venv venv
-   source venv/bin/activate  # For macOS/Linux
-   venv\Scripts\activate     # For Windows
-     
-4. Install required libraries:  
-   bash
-   pip install -r requirements.txt
      
 
 ### 🚀 Roadmap  
