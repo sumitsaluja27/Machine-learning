@@ -31,5 +31,4 @@ This repository contains my journey of learning Machine Learning from scratch. I
 If you have suggestions or improvements, feel free to fork and submit a PR!  
 
 ---
-
-Would you like to modify anything before adding it to your README file? 😊
+😊
