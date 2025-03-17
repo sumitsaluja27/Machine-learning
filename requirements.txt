@@ -1,2 +1,15 @@
-django
+tensorflow
+tensorflow-metal
+torch
+torchvision
 pyttsx3
+pyjokes
+flask
+django
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
+notebook
